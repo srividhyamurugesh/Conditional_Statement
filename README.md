@@ -15,7 +15,7 @@ Conditional Statements in Python
 5. Conditional Expressions (Ternary Operator): A concise way to write simple if-else conditions.
 
 **Keys to Remember:**
-    *Indentation is crucial in Python and determines the code block associated with each conditional statement.
-    *Conditions are evaluated as True or False based on expressions or variables.
-    *Use logical operators (and, or, not) to combine multiple conditions.
-    *Nested if statements are used when you need to check more than one condition at a time.
+    * Indentation is crucial in Python and determines the code block associated with each conditional statement.
+    * Conditions are evaluated as True or False based on expressions or variables.
+    * Use logical operators (and, or, not) to combine multiple conditions.
+    * Nested if statements are used when you need to check more than one condition at a time.
