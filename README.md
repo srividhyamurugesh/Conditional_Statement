@@ -1,23 +1,21 @@
 Conditional Statements in Python
-Overview
-Conditional statements in Python are used to execute a block of code based on specific conditions. They help in decision-making within a program by evaluating expressions that result in True or False.
+**Overview**
+   Conditional statements in Python are used to execute a block of code based on specific conditions. They help in decision-making within a program by evaluating expressions that result 
+   in True or False.
 
-Types of Conditional Statements
-if statement: Executes a block of code if the condition is true.
+**Types of Conditional Statements**
+1. if statement: Executes a block of code if the condition is true.
 
-if-else statement: Executes one block if the condition is true, otherwise executes another block.
+2. if-else statement: Executes one block if the condition is true, otherwise executes another block.
 
-if-elif-else statement: Checks multiple conditions sequentially and executes the corresponding block for the first true condition.
+3. if-elif-else statement: Checks multiple conditions sequentially and executes the corresponding block for the first true condition.
 
-Nested if statement: An if statement inside another if statement.
+4. Nested if statement: An if statement inside another if statement.
 
-Conditional Expressions (Ternary Operator): A concise way to write simple if-else conditions.
+5. Conditional Expressions (Ternary Operator): A concise way to write simple if-else conditions.
 
-Keys to Remember:
-Indentation is crucial in Python and determines the code block associated with each conditional statement.
-
-Conditions are evaluated as True or False based on expressions or variables.
-
-Use logical operators (and, or, not) to combine multiple conditions.
-
-Nested if statements are used when you need to check more than one condition at a time.
+**Keys to Remember:**
+    ->Indentation is crucial in Python and determines the code block associated with each conditional statement.
+    ->Conditions are evaluated as True or False based on expressions or variables.
+    ->Use logical operators (and, or, not) to combine multiple conditions.
+    ->Nested if statements are used when you need to check more than one condition at a time.
